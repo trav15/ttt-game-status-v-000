@@ -15,4 +15,6 @@ WIN_COMBINATIONS = [
   [2,4,6] # Forward slash diagonal
 ]
 
-def win
+def won(board)
+  
+end
